@@ -40,41 +40,41 @@ you've just cloned!!
 prefix = .
 ```
 
-## Features
+## Características
 
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+| Criador de adesivos | Recurso |
+| : -----------: | : --------------------------------: |
+| ✅ | Enviar foto com legenda |
+| ✅ | Responder uma foto |
+| ✅ | Responder a um vídeo ou GIF |
+| ✅ | Enviar vídeo ou GIF com legenda |
+| ✅ | Responder um adesivo (adesivo na imagem) |
 
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
+| Outro | Recurso |
+| : ------------: | : ---------------------------------------------: |
+| ✅ | Obtenha um meme aleatório |
+| ✅ | Texto para fala |
+| ✅ | Recurso de escrita |
+| ✅ | O que é esse anime |
+| ✅ | Url2Img (Web Screeenshot) |
+| ✅ | Simsimi |
 
-| Group  |                     Feature               |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
+| Grupo | Recurso |
+| : -----------: | : --------------------------------: |
+| ✅ | Membro Tagall / Mentionall |
+| ✅ | Tagall2 / membro Mentionall |
+| ✅ | Tagall3 / membro Mentionall |
+| ✅ | Kick Member Group |
+| ✅ | Adicionar grupo de membros |
+| ✅ | Obter Grupo de Administradores de Lista |
+| ✅ | Obter link de convite de grupo |
+| ✅ | O bot sai do grupo |
 
-| Owner Bot  |                     Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
+| Owner Bot | Recurso |
+| : -----------: | : --------------------------------: |
+| ✅ | Definir prefixo |
+| ✅ | Broadcast |
+| ✅ | Limpar todos os chats |
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
